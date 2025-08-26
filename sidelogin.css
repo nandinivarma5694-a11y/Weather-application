@@ -1,0 +1,40 @@
+.sidelogin-container {
+  background: url("https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1920&q=80'") no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
+
+.fullContent {
+  background: rgba(0, 0, 58, 0.792); /* Transparent blue shade */
+  padding: 20px;
+  border-radius: 12px;
+  width: 450px;
+  margin: 50px auto;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.fullContent input {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 6px;
+}
+
+.fullContent button {
+  background: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.fullContent button:hover {
+  background: #0056b3;
+}

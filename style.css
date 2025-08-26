@@ -1,0 +1,52 @@
+input[type=text]{
+    padding:15px;
+    margin:10px;
+    border-radius: 10px;
+}
+.cloud{
+    font-size: 50px;
+}
+.h1{
+    text-align:center;
+    margin:10px;
+}
+.signup{
+    position:absolute;
+    margin-left:90vw;
+}
+input[type=email]{
+    padding:15px;
+    margin:10px;
+    border-radius: 10px;
+}
+input[type=password]{
+    padding:15px;
+    margin:10px;
+    border-radius: 10px;
+}
+*{
+    font-family:'Times New Roman', Times, serif
+}
+
+.fullContent{
+    background-color: aquamarine;
+    text-align:center;
+    border-radius: 20px;
+    border:1px solid black;
+    padding:30px;
+    width:45vw;
+    margin-top:3vw;
+    margin-left:27vw;
+}
+img{
+    width:8vw;
+}
+.chetna{
+    margin:5vw;
+}
+button{
+    padding:10px;
+    border-radius:10px;
+    margin-left:2vw;
+    background-color: rgb(127, 229, 255);
+}

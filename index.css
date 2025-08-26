@@ -1,0 +1,30 @@
+nav{
+  display:flex;
+  gap:44px;
+  background-color: rgb(18, 221, 167);
+  color:white;
+}
+i{
+cursor:pointer;
+}
+i:hover{
+  color: red;
+}
+li{
+  list-style-type:none;
+  padding:23px;
+}
+a li{
+  color:white;
+}
+a li:hover{
+  background-color: red;
+}
+*{
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+.about{
+  font-family: 'Times New Roman', Times, serif;
+}
